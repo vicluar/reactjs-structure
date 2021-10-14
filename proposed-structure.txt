@@ -1,0 +1,12 @@
+- /src
+  |-- /assets
+  |-- /components
+  |-- /i18n
+  |-- /navigation
+  |-- /pages
+  |-- /redux
+  |-- /services
+  |-- /styles
+  |-- /utils
+  |-- app.js
+  |-- index.js
